@@ -1,1 +1,5 @@
 .env
+.vscode
+ffmpeg
+*.png
+*.ico
